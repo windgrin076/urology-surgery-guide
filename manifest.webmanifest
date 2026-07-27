@@ -1,0 +1,25 @@
+{
+  "name": "泌尿手术备物助手",
+  "short_name": "泌尿备物助手",
+  "description": "选择手术和医生，快速核对通用准备和医生偏好。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf4f9",
+  "theme_color": "#0b5cab",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
