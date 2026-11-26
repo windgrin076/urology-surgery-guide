@@ -1,4 +1,4 @@
-const CACHE_NAME = "urology-guide-v7";
+const CACHE_NAME = "urology-guide-v8";
 const ROOT_URL = new URL("./", self.registration.scope).href;
 const INDEX_URL = new URL("./index.html", self.registration.scope).href;
 const APP_SHELL = [
